@@ -1,0 +1,8 @@
+Miniplan 29/11
+
+laga helpers.R þannig að ef min = 0 eða max = 100 þá er legendið ekki asnalegt  check
+senda á tutorial náungann
+
+prófa að gera minimal gagnvirkni með mínar myndir
+á eftir að teikna hi og lo saman btw
+# má bæta við sunrise og sunset siðan!
